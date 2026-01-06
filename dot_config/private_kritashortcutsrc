@@ -1,0 +1,5 @@
+[Shortcuts]
+paste_into=Ctrl+Shift+V
+reset_canvas_rotation=Ctrl+Shift+H
+view_toggle_painting_assistants=Ctrl+Shift+\\
+view_toggle_reference_images=Ctrl+Shift+.
