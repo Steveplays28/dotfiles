@@ -1,0 +1,117 @@
+// Zed keymap
+//
+// For information on binding keys, see the Zed
+// documentation: https://zed.dev/docs/key-bindings
+//
+// To see the default key bindings run `zed: open default keymap`
+// from the command palette.
+[
+	{
+		"context": "Workspace",
+		"bindings": {
+			// "shift shift": "file_finder::Toggle"
+		}
+	},
+	{
+		"context": "Editor && vim_mode == insert",
+		"bindings": {
+			// "j k": "vim::NormalBefore"
+		}
+	},
+	{
+		"context": "Editor",
+		"bindings": {
+			"ctrl-shift-l": "editor::DeleteLine"
+		}
+	},
+	{
+		"context": "Editor",
+		"bindings": {
+			"ctrl-shift-k": "editor::SelectAllMatches"
+		}
+	},
+	{
+		"context": "Editor",
+		"bindings": {
+			"ctrl-r": "editor::Rename"
+		}
+	},
+	{
+		"context": "Editor",
+		"bindings": {
+			"ctrl-k ctrl-d": "editor::Format"
+		}
+	},
+	{
+		"context": "Editor",
+		"bindings": {
+			"ctrl-d": "editor::DuplicateLineDown"
+		}
+	},
+	{
+		"context": "Workspace",
+		"bindings": {
+			"ctrl-shift-tab": null
+		}
+	},
+	{
+		"context": "Workspace",
+		"bindings": {
+			"ctrl-tab": null
+		}
+	},
+	{
+		"context": "Pane",
+		"bindings": {
+			"ctrl-tab": "pane::ActivateNextItem"
+		}
+	},
+	{
+		"context": "Pane",
+		"bindings": {
+			"ctrl-shift-tab": "pane::ActivatePreviousItem"
+		}
+	},
+	{
+		"bindings": {
+			"f10": "debugger::StepOver"
+		}
+	},
+	{
+		"bindings": {
+			"f7": null
+		}
+	},
+	{
+		"bindings": {
+			"ctrl-f10": "debugger::StepInto"
+		}
+	},
+	{
+		"bindings": {
+			"ctrl-f11": null
+		}
+	},
+	{
+		"bindings": {
+			"shift-f10": "debugger::StepOut"
+		}
+	},
+	{
+		"bindings": {
+			"shift-f11": null
+		}
+	},
+ {
+  "context": "Workspace",
+  "bindings": {
+   "f10": null
+  }
+ },
+ {
+  "context": "ApplicationMenu",
+  "bindings": {
+   "f10": null
+  }
+ }
+]
