@@ -1,5 +1,7 @@
 [Shortcuts]
+next_favorite_preset=.
 paste_into=Ctrl+Shift+V
+previous_favorite_preset=,
 reset_canvas_rotation=Ctrl+Shift+H
 view_toggle_painting_assistants=Ctrl+Shift+\\
 view_toggle_reference_images=Ctrl+Shift+.
