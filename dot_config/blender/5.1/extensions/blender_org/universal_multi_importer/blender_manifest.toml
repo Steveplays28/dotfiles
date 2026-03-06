@@ -1,0 +1,32 @@
+schema_version = "1.0.0"
+
+id = "universal_multi_importer"
+version = "2.3.3"
+name = "Universal Multi Importer"
+tagline = "Batch Import many file formats at once, Batch process them"
+maintainer = "Tilapiatsu <tilapiatsu@hotmail.fr>"
+type = "add-on"
+
+website = "https://github.com/Tilapiatsu/blender-Universal_Multi_Importer"
+
+tags = ["Import-Export", "Pipeline"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+  "2023 Tilapiatsu",
+]
+
+[permissions]
+files = "Import Files from disk, save presets to disk"
+
+[build]
+paths_exclude_pattern = [
+  "/.git/",
+  "__pycache__/",
+  ".gitignore",
+]
