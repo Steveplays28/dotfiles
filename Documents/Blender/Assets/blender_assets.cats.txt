@@ -1,0 +1,12 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+108a28fc-b467-470f-a226-935bd8953b7f:Basic:Basic
+ffeb733a-5b6a-421e-8d30-a2279ff94f3e:Brushes:Brushes
+c145bbee-0491-48d3-b123-d1897b8e56e1:Brushes/Mesh Texture Paint:Brushes-Mesh Texture Paint
+f7eec7a3-afe1-46ce-8204-40b7eb54fdca:Brushes/Mesh Texture Paint/Basic:Brushes-Mesh Texture Paint-Basic
