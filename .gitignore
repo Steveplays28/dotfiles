@@ -435,6 +435,9 @@ lazy-lock.json
 
 # Blender
 dot_config/blender/5.1/config/bookmarks.txt
+dot_config/blender/5.1/config/platform_support.txt
+dot_config/blender/5.1/config/recent-files.txt
+dot_config/blender/5.1/config/recent-searches.txt
 .blender_ext/
 .cache
 .local
