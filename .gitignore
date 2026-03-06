@@ -432,3 +432,9 @@ FodyWeavers.xsd
 
 # lazy.nvim lock
 lazy-lock.json
+
+# Blender
+dot_config/blender/5.1/config/bookmarks.txt
+.blender_ext/
+.cache
+.local
