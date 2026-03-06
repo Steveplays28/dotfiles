@@ -1,0 +1,12 @@
+[Bookmarks]
+[Recent]
+/home/steveplays/.local/share/krita/pykrita/blender_layer/
+/home/steveplays/Documents/Art/japan_night_skybox/
+/home/steveplays/Documents/Art/japan_night_skybox/assets/
+/home/steveplays/Applications/blender-5.1.0-alpha+main.dc35b31f93d4-linux.x86_64-release/5.1/datafiles/studiolights/world/
+/home/steveplays/Documents/Art/japanese_city/renders/
+/home/steveplays/Documents/Art/japanese_city/
+/home/steveplays/Applications/blender-5.1.0-alpha+main.613a7f1825ea-linux.x86_64-release/5.1/datafiles/studiolights/world/
+/home/steveplays/Documents/Art/japanese_city/references/
+/home/steveplays/Applications/blender-5.0.0-beta+v50.ec3001dc39ab-linux.x86_64-release/5.0/datafiles/studiolights/world/
+/home/steveplays/Pictures/Screenshots/
